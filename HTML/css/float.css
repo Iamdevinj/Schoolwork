@@ -18,7 +18,7 @@ header {
 }
 
 section {
-  background-color: #666
+  background-color: #666;
   padding: 20px;
   margin-bottom: 20px;
 }
@@ -53,7 +53,7 @@ section {
 }
 
 #division {
-  background-color: #6ea3da
+  background-color: #6ea3da;
   padding: 20px;
   margin-bottom: 20px;
 }
